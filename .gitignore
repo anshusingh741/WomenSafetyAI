@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+
+# DeepFace & TensorFlow large models
+*.h5
+*.dat
+*.pb
+*.so
+*.dylib
+*.onnx
+*.tflite
+*.ckpt
+
+# Logs
+*.log
+*.tmp
